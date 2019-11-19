@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br />
+
 This project can be seen [here](https://my-react-calculator-br.herokuapp.com)
 
 ## Available Scripts
